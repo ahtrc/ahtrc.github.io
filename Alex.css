@@ -1,0 +1,129 @@
+*{margin:0;
+	padding:0;
+}
+body{
+	background-color:#FAC907;
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+	font-family:IMPACT;
+	color:#0000ff;
+}
+
+
+.navbartop{
+	height:81;
+	width:800;
+	text-align:center;
+	margin:auto;
+	font-size: 22;
+	font-family:IMPACT;
+	color:blue;
+}
+li{
+	list-style: none;
+	display:inline;
+	padding:15;
+	text-align: center;
+}
+
+.navbarleft{
+	height:320;
+	width:100;
+	border:solid text-align:center;
+	background-color:white;
+	float:left;
+
+}
+
+.lileft{
+	display: block;
+	text-align: center;
+	padding-top: 20px;
+	overflow: hidden;
+}
+
+ul {
+	overflow: hidden;
+}
+
+.title{
+	font-family:AR DARLING;
+}
+
+.byalex{
+	width:420;
+	font-family:AR CARTER;
+	font-size:20;
+	position:absolute;
+	bottom:0;
+	right:0;
+}
+
+
+.welcomerhome1{
+	margin-left:450;
+	font-family:AR DESTINE;
+}
+
+.stuffdefinition{
+	text-align: center;
+	font-family:AR ESSENCE;
+	font-size: 29;
+
+}
+
+.aboutusp{
+	height:400;
+	width:700;
+	float:left;
+	overflow:hidden;
+	margin-left:300;
+	color:#0000ff;
+}
+
+.battlefrontreviewp{
+	height:600;
+	width:700;
+	margin:auto;
+	overflow:hidden;
+	margin-left:300;
+	color:#0000ff;
+}
+
+.battlefrontreviewpage{
+	margin:auto;
+}
+
+.fifa16reviewpage{
+	margin:auto;
+}
+
+.fifa16reviewp{
+	height:500;
+	width:700;
+	margin:auto;
+	overflow:hidden;
+	margin-left:300;
+	color:#0000ff;
+}
+
+.contactus{
+}
+
+.names{
+	text-align:center;
+}
+
+#202653{
+	height:500px;
+	margin:auto;
+	border:solid;
+}
+
+
+
+
+
+
+
